@@ -1,0 +1,2 @@
+recursive-include dpivsoft/Examples *
+recursive-include dpivsoft/GPU_Kernels *

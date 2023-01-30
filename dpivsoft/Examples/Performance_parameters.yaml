@@ -1,0 +1,26 @@
+box_size_1_x: 32
+box_size_1_y: 32
+no_boxes_1_x: 32
+no_boxes_1_y: 32
+window_1_x: 32
+window_1_y: 32
+
+no_iter_1: 2
+no_iter_2: 2
+
+direct_calc: 0
+
+box_size_2_x: 16
+box_size_2_y: 16
+no_boxes_2_x: 64
+no_boxes_2_y: 64
+window_2_x: 16
+window_2_y: 16
+
+mask: 0
+peak_ratio:  1
+weighting: 0
+gaussian_size: 0
+median_limit: 0.5
+calibration: 1
+delta_t: 1
